@@ -1,0 +1,27 @@
+Nombre: dsadasdada
+Martrícula: dadasdasdasd
+Calificación: 10
+
+Nombre: asdsadadad
+Martrícula: asdasdasda
+Calificación: 9
+
+***Datos***
+No. de alumnos: 2
+Total de calificaciones: 19.0
+
+***Resultados***
+
+**Medidas de tendencia central**
+Media: 9.5
+Moda: 9.0 y 10.0 No de repeticiones: 1
+Mediana: 9.5
+
+**Medidas de dispersión**
+Rango: 1.0
+Desviación Estandar: 0.5
+Varianza: 0.25
+
+**Reporte de Datos**
+Mayor calificación: 10.0
+Menor calificación: 9.0
